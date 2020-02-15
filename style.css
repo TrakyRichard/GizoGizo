@@ -1,0 +1,43 @@
+.heightBannierre{
+    height: 400px;
+    padding-top: 50px;
+}
+
+.fdbp{
+    background: url('https://tse4.mm.bing.net/th?id=OIP.K_G1rjNinsN9orLHNmViyAHaDb&pid=Api&P=0&w=359&h=167');
+    background-color: rgba(30, 30, 201, 0.897);
+    background-blend-mode: overlay;
+}
+
+.fdbpTitle{
+    height: 100px;
+}
+
+.listenBtn{
+    margin-top: 70px;
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+
+  .boldText{
+      font-weight: bold;
+  }
+
+  .btnReadMore{
+      height: 45px;
+      width: 125px;
+      margin-top: 50px;
+      margin-bottom: 50px;
+  }
+
+  .btnSubmitSignUp{
+      width: 100%;
+  }
